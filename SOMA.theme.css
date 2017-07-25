@@ -420,7 +420,7 @@ textarea {
 	width:40px;
 	height:40px;	
 	content:'';
-	background-image: url(https://i.imgur.com/3sDnCpv.gif) !important;
+	background-image: url("https://rawgit.com/Abion47/soma-discord-theme/master/brain_scan_small.gif") !important;
 	background-size:85%;
 	background-repeat:no-repeat;
 	background-position:center center;
