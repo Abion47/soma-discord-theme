@@ -182,17 +182,17 @@ textarea {
 }
 
 .contentSelectedText-3j5CXt {
-	background: rgba(0,0,0,0.8);
+	background: rgba(255,255,255,0.12);
 }
 
 .contentSelectedText-3j5CXt:hover {
-	background: rgba(0,0,0,0.3);
+	background: rgba(255,255,255,0.17);
 }
 
 .contentHoveredText-2HYGIY,
 .contentHoveredVoice-3qGNKh:active,
 .contentSelectedVoice-gTtYM9:active {
-	background: rgba(0,0,0,0.5);
+	background: rgba(255,255,255,0.05);
 }
 
 .create-guild-container {
