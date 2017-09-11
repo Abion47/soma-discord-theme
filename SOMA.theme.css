@@ -1243,44 +1243,44 @@ textarea {
 
 */
 
-.channel-members .invite-btn {
+.channel-members-wrap .invite-btn {
 	background:var(--accent-color);
 }
 
-.channel-members .invite-btn:hover {
+.channel-members-wrap .invite-btn:hover {
 	background:var(--main-color);
 }
 
-.channel-members .bot-tag {
+.channel-members-wrap .bot-tag {
 	padding: 0px 3px;
 }
 
-.channel-members .member {
+.channel-members-wrap .member {
 	padding: 0px 16px 5px 30px !important;
 }
 
-.channel-members .member:hover {
+.channel-members-wrap .member:hover {
 	background:rgba(255,255,255,0.07) !important;
 }
 
-.channel-members .member .member-username {
+.channel-members-wrap .member .member-username {
 	font-size:12px;
 }
 
-.channel-members .member .member-username .member-username-inner {
+.channel-members-wrap .member .member-username .member-username-inner {
 	font-size: 12px;
 	font-family: "Sansation" !important;
 }
 
-.channel-members .member .member-game {
+.channel-members-wrap .member .member-game {
 	font-size:10px;
 }
 
-.channel-members .avatar-small .status {
+.channel-members-wrap .avatar-small .status {
 	border-color:rgba(0,0,0,0.7) !important;
 }
 
-.channel-members h2 {
+.channel-members-wrap h2 {
 	font-size: 11px;
 	font-family: "Sansation" !important;
 	background: rgba(0,0,0,0) !important;
@@ -1288,11 +1288,11 @@ textarea {
 	padding-bottom: 10px;
 }
 
-.channel-members .member+h2 {
+.channel-members-wrap .member+h2 {
 	margin-top:12px;
 }
 
-.channel-members h2:first-of-type {
+.channel-members-wrap h2:first-of-type {
 	margin-top:0px !important;
 }
 
