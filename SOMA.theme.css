@@ -56,6 +56,10 @@ textarea {
 	background: transparent !important;
 }
 
+.appMount-14L89u {
+	background: black !important;
+}
+
 .scroller-wrap .scroller::-webkit-scrollbar-thumb {
 	border: 3px solid rgba(255,255,255,0) !important;
 	background-color: var(--accent-color) !important;
@@ -64,6 +68,14 @@ textarea {
 .scroller-wrap .scroller::-webkit-scrollbar-track-piece {
 	border: 3px solid rgba(255,255,255,0) !important;
 	background-color: rgba(0,0,0,0.3) !important;
+}
+
+.title-qAcLxz {
+	background: rgba(0,0,0,0.7) !important;
+}
+
+.titleBar-3_fDwJ {
+	background-color: black !important;
 }
 
 
@@ -83,6 +95,10 @@ textarea {
 
 .layers,
 .container-RYiLUQ {
+	background: transparent !important;
+}
+
+.flex-lFgbSz {
 	background: transparent !important;
 }
 
@@ -529,6 +545,10 @@ textarea {
  \___|_| |_|\__,_|_| |_|_| |_|\___|_|___/ |___/\___|\___|\__|_|\___/|_| |_|
 
 */
+
+.channels-3g2vYe {
+	background-color: rgba(0,0,0,0.7)  !important;
+}
 
 .channel-notices .channel-notice.quickswitcher-notice {
 	background-color: rgba(0,0,0,0.7);
@@ -994,6 +1014,7 @@ textarea {
 }
 
 .chat form {
+	background-color: transparent !important;
 	border-top: none !important;
 }
 
@@ -1232,6 +1253,7 @@ textarea {
 
 .friends-table .friends-row:hover {
 	background: rgba(0,0,0,0.7) !important;
+	height: 42px !important;
 }
 
 /*
